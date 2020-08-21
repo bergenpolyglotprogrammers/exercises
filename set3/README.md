@@ -68,8 +68,9 @@ Input, Output, File, State
 
 Create a program that reads a file containing some text and counts the frequency of words in the file.
 
-Text alternative 1: [Gangsta ipsum](http://lorizzle.nl/?feed=1)
-Text alternative 2: [Shakespeare's Macbeth](http://shakespeare.mit.edu/macbeth/full.html)
+- Text alternative 1: [Gangsta ipsum](http://lorizzle.nl/?feed=1)
+- Text alternative 2: [Shakespeare's Macbeth](http://shakespeare.mit.edu/macbeth/full.html)
+- Text alternative 3: Whatever you want
 
 ### Example output
 
