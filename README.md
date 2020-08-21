@@ -18,7 +18,7 @@ Each set of exercises contains different exercises but laid out the same way and
 - [Task 1 - Password Validation](./set1/README.md)
 - [Task 2 - Karvonen Heart Rate](./set1/README.md)
 - [Task 3 - Sorting Records](./set1/README.md)
-- [Project - TBA](./set1/README.md)
+- [Project - Jeopardy](./set1/project.md)
 
 # Set 2
 
