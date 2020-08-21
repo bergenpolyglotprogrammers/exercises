@@ -17,7 +17,7 @@ In general, there are two endpoints of particular interest to us for this projec
 
 The simple trivia game you're about to make should work something like this:
 
-- It should run in the terminal (if you want to make a website out of it, that's fine too).
+- It should run in the terminal (if you want to make a website out of it, that's fine too, but you should know what you're doing since it typically takes a lot more time to make a GUI).
 - First, the game should ask for the player's name and hold the name in memory while the game is running.
 - The player should then have the option to start a new game, see the leaderboard/high score list, or quit. Think of this as a main menu in the game. Once his game session is done or aborted, he should end up in the main menu again. If it seems complicated to make an actual menu inside a terminal, make it simple with, maybe like this, where we give the player the option to enter a specific letter to choose a menu option:
 
@@ -31,7 +31,7 @@ Enter a menu option:
 
 > Tip: In order for a player to end back up in the main menu until he chooses to quit, this should probably run in a while loop until Q is entered.
 
-> :tada: Remember to have some fun! Throw in some [ASCII art](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) or something here, use some [console colors](https://www.c-sharpcorner.com/article/change-console-foreground-and-background-color-in-c-sharp/Images/ConsoleColors.jpg) or [try to play sounds on key presses or background music](https://askubuntu.com/questions/920539/how-to-play-a-sound-from-terminal). Just don't spend 2 hours on this during our workshop :sweat_smile:
+> :tada: Remember to have some fun! Throw in some [ASCII art](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) or something here, use some [console colors](https://www.c-sharpcorner.com/article/change-console-foreground-and-background-color-in-c-sharp/Images/ConsoleColors.jpg) or [try to play sounds on key presses or background music](https://askubuntu.com/questions/920539/how-to-play-a-sound-from-terminal). Just don't sink all your time on these things :sweat_smile:
 
 ## Game rules
 

@@ -41,6 +41,12 @@ Create a program that prompts for your age and your resting heart rate, then use
 
 Use a loop to cover all 5% increases in intensity and not a hard-coded set of input prompts.
 
+The formula:
+
+```
+TargetHeartRate = (((220 - age) - restingHR) * intensity) + restingHR
+```
+
 ### Example output
 
 ```
