@@ -67,10 +67,12 @@ Was your answer correct? (y/n):
 - Remember to always show the player's current score and status when he's playing:
 
 ```
-Current score: 1500 (4/10)
-Current category: movie taglines (2/3)
+Current score: 1500 (question 4/10)
+Current category: movie taglines (question 2/3 in this category)
 
 Question: 1993: "An adventure 65 million years in the making"
 Your answer:
 >
 ```
+
+- Remember to store the player's score in the leaderboard file on disk once his game session is done.
